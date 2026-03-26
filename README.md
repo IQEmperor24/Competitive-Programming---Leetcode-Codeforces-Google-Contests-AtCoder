@@ -1,0 +1,2 @@
+# Competitive-Programming---Leetcode-Codeforces-Google-Contests-AtCoder
+Collection of Leetcode problems solved individually. Expert in advanced data structures (BST, Tries, Quadtrees) and complex algorithms. Specialized in Dynamic Programming, Graph Theory, Binary Search, etc.  Mainly program in Java, but am proficient in Python and C++ as well. Have experience in deploying profitable software obeying  SDLC principles.
